@@ -1,5 +1,5 @@
 function descargar(){
-  console.log("Hola mundo");
+  alert("Hola mundo");
 }
 
 function generateQR() {
