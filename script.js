@@ -1,3 +1,7 @@
+function descargar(){
+  console.log("Hola mundo");
+}
+
 function generateQR() {
     var inputValue = document.getElementById('qr-input').value;
   
@@ -36,4 +40,3 @@ function generateQR() {
       generateQR();
     }
   });
-  
